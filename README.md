@@ -62,6 +62,7 @@ Tools and platforms for understanding soil conditions, crop health, and environm
 
 - [CropX](https://www.cropx.com/) — Soil sensing and analytics platform for irrigation optimization.
 - [FarmLogs](https://farmlogs.com/) — Farm data platform for tracking crop performance and field conditions.
+- [HealthyCropping](https://github.com/keylorpineda/healthycropping) — Offline-first Android app (in development) that detects coffee, cacao and banana diseases with on-device TensorFlow Lite models.
 - [Taranis](https://taranis.com/) — AI-powered crop intelligence platform using aerial imagery.
 
 ## Supply Chain & Market Platforms
